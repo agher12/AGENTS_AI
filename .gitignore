@@ -1,0 +1,14 @@
+.venv/
+**/.venv/
+.env
+**/.env
+__pycache__/
+**/__pycache__/
+*.pyc
+.idea/
+**/.idea/
+*.db
+**/*.db
+main.py
+main_postgre.py
+main_real.py
